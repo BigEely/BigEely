@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hello, I'm Eden
+I am a Game Design and Production Major at Drexel University with an interest in game programming and design.
+# Game Dev Projects
+
+- Pregame The Game (Unity)
+  - https://github.com/BigLoly/Pregame-The-Game
+
+# Check out other works!
+[Itch.io](https://bigloly.itch.io/) \
+[Artstation](https://www.artstation.com/edenylo) \
+[LinkedIn](https://www.linkedin.com/in/eden-y-lo/) \
+Contact Info: ethanyeejlopersonal@gmail.com 
+
 
 <!--
 **BigLoly/BigLoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
