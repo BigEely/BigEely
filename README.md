@@ -9,7 +9,7 @@ I am a Game Design and Production Major at Drexel University with an interest in
 [Itch.io](https://bigloly.itch.io/) \
 [Artstation](https://www.artstation.com/edenylo) \
 [LinkedIn](https://www.linkedin.com/in/eden-y-lo/) \
-Contact Info: ethanyeejlopersonal@gmail.com 
+ethanyeejlopersonal@gmail.com 
 
 
 <!--
