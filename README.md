@@ -1,11 +1,13 @@
 # Hello, I'm Eden
 I am a Game Design and Production Major at Drexel University with an interest in game programming and design.
 # Game Dev Projects
+- Procedural Walking Project
+  - https://github.com/BigEely/Procedural-Walking-Project
 
 - Pregame The Game (Unity)
   - https://github.com/BigLoly/Pregame-The-Game
 
-# Check out other works!
+# Other Works and Contact
 [Itch.io](https://bigloly.itch.io/) \
 [Artstation](https://www.artstation.com/edenylo) \
 [LinkedIn](https://www.linkedin.com/in/eden-y-lo/) \
